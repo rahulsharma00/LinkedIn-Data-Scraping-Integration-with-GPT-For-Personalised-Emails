@@ -22,6 +22,7 @@ To use the application, execute the following commands in the termial
 2. Enter the username
 3. ``python3 profile_emails.py``
 
+
 ## Output pictures
 Here are some of the personalised emails 
 
