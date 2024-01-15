@@ -21,3 +21,11 @@ To use the application, execute the following commands in the termial
 1. ``python3 json_format.py``
 2. Enter the username
 3. ``python3 profile_emails.py``
+
+## Output pictures
+Here are some of the personalised emails 
+
+<img width="1170" alt="Screenshot 2024-01-15 at 1 21 52 PM" src="https://github.com/rahulsharma00/Zenskar-Assignment/assets/89294054/caf75260-a12b-4dc9-aa4a-56b1bdfd2268">
+
+<img width="1170" alt="Screenshot 2024-01-15 at 1 22 56 PM" src="https://github.com/rahulsharma00/Zenskar-Assignment/assets/89294054/29e9dfee-aa61-45d5-9d1f-f4c5053b2c83">
+
