@@ -77,7 +77,7 @@ def process_linkedin_data(profile_data):
     return data_dict
 
 def main():
-    api = Linkedin('rahulxsharma00@gmail.com', 'pitbull2000')
+    api = Linkedin('EMAIL', 'PASSWORD')
     username = input("Enter the username: ")
 
     profile_data = get_profile_data(api, username)
