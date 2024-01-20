@@ -10,7 +10,9 @@ This guide outlines the process of integrating the provided Python code with the
 ## Prerequisites
 1. Creater a folder called 'Zenskar' on Desktop and clone the repository
 2. Make 2 folders called 'profile_data' and 'emails' respectively
-3. Execute the following commands before running the application in the following order
+3. Enter your linkedin email and password where "EMAIL" and "PASSWORD" in mentioned
+4. Enter your OPENAI API key 
+5. Execute the following commands before running the application in the following order
    
  `` pip install linkedin_api``
 
