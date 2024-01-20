@@ -3,7 +3,7 @@ import os
 import json
 
 # Set your OpenAI API key
-openai.api_key = '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'
+openai.api_key = ''
 
 def clean_text(text):
     return ' '.join(str(text).split())
@@ -75,10 +75,6 @@ def generate_personalized_email(linkedin_data, company_name='Zenskar', recipient
     generated_email = generated_email.replace("Zenskar Team", "Zenskar Team")
 
     return generated_email
-
-
-
-
 
 
 # Example usage:
